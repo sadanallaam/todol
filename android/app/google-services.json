@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33879993338",
+    "project_id": "botom-1c53a",
+    "storage_bucket": "botom-1c53a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33879993338:android:419cec944163a5c79a9243",
+        "android_client_info": {
+          "package_name": "com.example.apsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqGXPZE69bKfJw-WWVpKQB_msoGjlr4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
